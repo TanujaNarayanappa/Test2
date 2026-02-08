@@ -3,6 +3,11 @@ Problem
 The task is to write a function that takes a single string input containing integers separated by whitespace and returns the Longest Increasing Subsequence (LIS) from that sequence.
 
 
+
+
+#Solution
+
+
 The input string is parsed into an array of integers.
 
 I used a dynamic programming approach:
